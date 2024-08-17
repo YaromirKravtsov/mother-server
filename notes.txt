@@ -1,0 +1,4 @@
+/* 
+// Для моего телефона
+const apiId = 27458192; 
+const apiHash = '40fbfde2bd42efdc9d3bc5abee625a63';  */
